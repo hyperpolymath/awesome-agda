@@ -1,0 +1,73 @@
+== Awesome Agda Programming
+
+https://en.wikipedia.org/wiki/Agda_(programming_language)[Agda
+(programming language)] Agda is a dependently typed functional
+programming language originally developed by Ulf Norell at Chalmers
+University of Technology with implementation described in his PhD
+thesis. Agda is also a proof assistant based on the
+propositions-as-types paradigm, but unlike Coq, has no separate tactics
+language, and proofs are written in a functional programming style. The
+language has ordinary programming constructs such as data types, pattern
+matching, records, let expressions and modules, and a Haskell-like
+syntax. Agda is based on Zhaohui Luo’s unified theory of dependent types
+(UTT), a type theory similar to Martin-Löf type theory.
+
+image:https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Agda%27s_official_logo.svg/1920px-Agda%27s_official_logo.svg.png[https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Agda%27s_official_logo.svg/1920px-Agda%27s_official_logo.svg]
+
+=== Articles
+
+* https://oxij.org/note/BrutalDepTypes/[Brutal [Meta]Introduction to
+Dependent Types in Agda]
+* http://learnyouanagda.liamoc.net/[Learn you and Agda and achieve
+enlightenment]
+* https://whatisrt.github.io/dependent-types/2020/02/18/agda-vs-coq-vs-idris.html[Agda
+vs. Coq vs. Idris]
+* https://wiki.portal.chalmers.se/agda/Main/AgdaVsCoq[Agda vs. Coq]
+
+=== Tutorials
+
+* http://www.cse.chalmers.se/~ulfn/papers/afp08/tutorial.pdf[Dependently
+Typed Programming in Agda]
+* http://www.cse.chalmers.se/~peterd/papers/DependentTypesAtWork.pdf[Dependent
+Types at Work]
+* https://wiki.portal.chalmers.se/agda/pmwiki.php?n=Main.Documentation?action=download&upname=AgdaOverview2009.pdf[A
+Brief Overview of Agda - A Functional Language with Dependent Types]
+
+=== YouTube videos
+
+* https://youtu.be/R49VgxNLmsY[(Programming Languages) in Agda =
+Programming (Languages in Agda) by Philip Wadler]
+* https://youtu.be/DzTz9cdJSf0[Twitch: Proving things using Agda!]
+* https://youtu.be/AZ8wMIar-_c[Cubical Agda: A Dependently Typed
+Programming Language with Univalence and Higher Inductive Types]
+* https://youtu.be/VxINoKFm-S4["`A Little Taste of Dependent Types`" by
+David Christiansen]
+* https://youtu.be/vy5C-mlUQ1w[David Sankel: The Intellectual Ascent to
+Agda]
+* https://youtu.be/8WFMK0hv8bE[A Demonstration of Agda]
+* https://youtu.be/08sPfcYbN1c?list=PL_shDsyy0xhKhsBUaVXTJ2uJ78EGBpvQa[Conor
+McBride - Dependently-Typed Metaprogramming: Introduction via Vectors]
+
+=== Courses
+
+* https://danel.ahman.ee/agda-course-13/%3E[Dependently typed
+metaprogramming (in Agda)]
+
+=== Books
+
+* https://www.amazon.co.uk/Verified-Functional-Programming-Agda-Books/dp/1970001240[Verified
+Functional Programming in Agda]
+* https://plfa.github.io/[Programming Language Foundations in Agda]
+
+=== Projects
+
+* https://github.com/topics/agda[GitHub topic Agda]
+* https://awesomeopensource.com/projects/agda[The Top 27 Agda Open
+Source Projects]
+* https://github.com/xgrommx/agda-ecosystem[What are the most popular
+libraries in the Agda ecosystem?]
+
+=== Other lists
+
+* https://agda.readthedocs.io/en/v2.6.0.1/getting-started/tutorial-list.html[A
+List of Tutorials: introductions and courses]
